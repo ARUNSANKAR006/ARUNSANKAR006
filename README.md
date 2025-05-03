@@ -3,13 +3,11 @@
 
                                              
 - 🌱 I’m currently learning web3 and Integrating AI to my workflow
--I'm Looking to collaborate on AI/Ml
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ⚡ Fun fact: I know Japanese.
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+-🤖 I'm Looking to collaborate on AI/Ml
+-☁ Ask me about Tech
+- ⚡ Fun fact: I know Hindi.
+- Social Presence :
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/ARUNSANKAR006) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ARUNSANKAR S/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/arun._.1002/)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="50" height="50" src="https://img.icons8.com/officel/80/php-logo.png" alt="php-logo"/><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
