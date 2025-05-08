@@ -2,6 +2,7 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
+
 - 🔭 I’m currently working on web2 based projects
                                              
 - 🌱 I’m currently learning web3 and Integrating AI to my workflow.
